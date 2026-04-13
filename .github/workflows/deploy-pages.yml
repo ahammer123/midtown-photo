@@ -1,10 +1,10 @@
 # Permanent public site (free): GitHub Pages via Actions.
 #
-# One-time on github.com (repo must be PUBLIC on a free account):
-#   Settings → Pages → Build: GitHub Actions → save
+# REQUIRED one-time: Repo → Settings → Pages → Build and deployment →
+#   Source: "GitHub Actions" (not "Deploy from a branch").
 #
-# Then push this folder as the repo root (branch main). URL will be:
-#   https://<your-username>.github.io/<repo-name>/
+# Project site URL (note the repo name path):
+#   https://ahammer123.github.io/midtown-photo/
 #
 name: Deploy to GitHub Pages
 
@@ -23,17 +23,20 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - id: deployment
         uses: actions/deploy-pages@v4
