@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Equipment list</title>
+  <link rel="stylesheet" href="styles.css" />
+  <!--
+    Local server (fetch needs http — open the folder in a terminal first):
+      cd photo-kit-equipment-site && python3 -m http.server 9000
+      open http://127.0.0.1:9000/
+    Data: python3 build_from_pdf.py
+    Hover photos: copy from ~/Downloads/EQ list photos → python3 sync_eq_photos.py
+    Edit list in browser: admin.html (download data.json → replace on server/NAS)
+  -->
+</head>
+<body>
+  <header class="site-header">
+    <!-- id brandLine kept for compatibility (older app.js / cached bundles) -->
+    <p class="meta-source" id="brandLine" hidden></p>
+    <h1 id="pageTitle"></h1>
+    <p class="caption" id="rateCaption"></p>
+    <p class="header-notice caption" id="noticeLine" hidden></p>
+    <p class="edit-page-link"><a href="admin.html">Edit page text</a></p>
+  </header>
+
+  <main id="app" class="equipment-main"></main>
+
+  <footer class="site-footer">
+    <p id="attribution" class="caption"></p>
+    <p class="fine-print">Hover photos: run <code>sync_eq_photos.py</code> on <code>~/Downloads/EQ list photos</code> (local <code>images/</code> is used first; optional <code>bh_preview_url</code> in data is a fallback).</p>
+  </footer>
+
+  <div id="bubble" class="image-bubble" role="tooltip" aria-hidden="true" hidden>
+    <img id="bubbleImg" src="" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Host equipment site (local)",
+      "type": "shell",
+      "command": "${workspaceFolder}/serve-site.sh",
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "env": {
+          "PORT": "9000"
+        }
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "focus": true
+      },
+      "runOptions": {
+        "instanceLimit": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "meta": {
+    "source": "PHOTO_KIT_EQ_LIST.pdf (text only)",
+    "notice": "Insurance certificate and ID may be required. Replacement value charged for loss or damage.",
+    "title": "EQUIPMENT LIST",
+    "rate_caption": "QTY  ITEM  DAY RATE",
+    "image_attribution": "Hover images are your photos from ~/Downloads/EQ list photos (run sync_eq_photos.py)."
+  },
+  "groups": [
+    {
+      "section": "I. GRIP & SUPPORT",
+      "subsections": [
+        {
+          "title": "Stands & specialized support",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Tre-D Delta 4 heavy-duty professional light stand (Mod. 7731)",
+              "price": "$10",
+              "image": "images/eq-57b76fb6d7dd77.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 10,
+              "item": "Manfrotto Auto Poles (painted studio poles)",
+              "price": "$15",
+              "image": "images/eq-50c0dd7d0c8019.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 9,
+              "item": "Matthews C-Stands (standard turtle base)",
+              "price": "$10",
+              "image": "images/eq-c80424fb07d40e.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Matthews 20\" baby C-Stand",
+              "price": "$9",
+              "image": "images/eq-0fc174a72f46a6.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Avenger D520LB mini boom with clamp",
+              "price": "$13",
+              "image": "images/eq-cc05473702fbbb.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 8,
+              "item": "Aluminum kit light stands (Manfrotto, Avenger, Impact, assorted)",
+              "price": "$8",
+              "image": "images/eq-8dcf8d9c7b4f53.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 6,
+              "item": "Floor / backlight stands",
+              "price": "$5",
+              "image": "images/eq-0c543618e41118.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 4,
+              "item": "Matthews apple boxes (full)",
+              "price": "$5",
+              "image": "images/eq-11813fcabbacd2.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 6,
+              "item": "Sandbags (25 lb)",
+              "price": "$5",
+              "image": "images/eq-13d8c011c09843.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Pumpkin weight (studio shot bag)",
+              "price": "$5",
+              "image": "images/eq-e1e0f71a0a6828.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Mounting & hardware",
+          "items": [
+            {
+              "quantity": 7,
+              "item": "Matthews Super Clamps",
+              "price": "$4",
+              "image": "images/eq-f1b25ab87876d6.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Matthews Magic Finger with 5/8\" stud adapter",
+              "price": "$8",
+              "image": "images/eq-d9509b023fc105.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Matthews 3\" baby plate",
+              "price": "$8",
+              "image": "images/eq-cbbb19102c02fd.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Matthews mounting plate with 5/8\" receiver",
+              "price": "$8",
+              "image": "images/eq-8d6c6e401f1743.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 2,
+              "item": "6\" Matthews grip head pins with collar",
+              "price": "$6",
+              "image": "images/eq-7a18ac24037944.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 2,
+              "item": "Avenger snap-in 5/8\" aluminum spigots (Super Clamp accessory)",
+              "price": "$5",
+              "image": "images/eq-249f5f58503370.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Right-angle snap-in pin (Mafer-style clamp accessory)",
+              "price": "$6",
+              "image": "images/eq-8840269eace769.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Junior-to-baby pin adapter",
+              "price": "$6",
+              "image": "images/eq-4f260a960f3bab.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 6,
+              "item": "J-hooks (assorted)",
+              "price": "$5",
+              "image": "images/eq-8888531b2e9b07.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "A-clamps (assorted small & medium), set",
+              "price": "$4",
+              "image": "images/eq-7af565e9d37945.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Light control (flags, scrims & gobos)",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Impact PortaFrame scrim kit (18 x 24\") with fingers & dots",
+              "price": "$25",
+              "image": "images/eq-11e48139e6e4c1.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "2 x 3' flag kit (assorted frames & fabrics)",
+              "price": "$18",
+              "image": "images/eq-6f5580299a23be.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 2,
+              "item": "Gobos (additional, assorted patterns)",
+              "price": "$8",
+              "image": "images/eq-c48bdc4bf33ec0.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "II. ELECTRIC & POWER",
+      "subsections": [
+        {
+          "title": null,
+          "items": [
+            {
+              "quantity": 12,
+              "item": "AC stingers (extension cords)",
+              "price": "$5",
+              "image": "images/eq-b4031750a1a3d4.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "PC sync cable set",
+              "price": "$5",
+              "image": "images/eq-adccdc7690c655.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "III. LIGHTING SYSTEMS",
+      "subsections": [
+        {
+          "title": "Elinchrom AC strobe - power packs",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Elinchrom 6000 Ws Digital RX power pack",
+              "price": "$125",
+              "image": "images/eq-b893241d9de38c.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 4,
+              "item": "Elinchrom 2400 Ws Digital RX power pack",
+              "price": "$95",
+              "image": "images/eq-a82954ce3f9586.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 2,
+              "item": "Elinchrom 1200 Ws Digital RX power pack",
+              "price": "$75",
+              "image": "images/eq-22399575020a48.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Elinchrom AC strobe - heads",
+          "items": [
+            {
+              "quantity": 2,
+              "item": "Elinchrom 6000 Ws bi-tube head",
+              "price": "$40",
+              "image": "images/eq-75c175a7daadb7.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 4,
+              "item": "Elinchrom 3000 Ws head",
+              "price": "$30",
+              "image": "images/eq-f3bc5cf3e2527f.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 6,
+              "item": "Elinchrom 2000 Ws head",
+              "price": "$25",
+              "image": "images/eq-f6628d89390151.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 2,
+              "item": "Elinchrom 1000 Ws head",
+              "price": "$17",
+              "image": "images/eq-575d2ff3d3db3d.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Battery-powered & portable flash",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Godox AD600 Pro TTL monolight",
+              "price": "$50",
+              "image": "images/eq-495ec2ed18275a.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Godox AD400 Pro TTL monolight",
+              "price": "$40",
+              "image": "images/eq-eccc6c3e8312fa.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Godox AD200 Pro TTL pocket flash",
+              "price": "$25",
+              "image": "images/eq-a52c61a0b766f1.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Godox V350-F TTL speedlight (Fujifilm)",
+              "price": "$14",
+              "image": "images/eq-c968dc3a0c598e.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "LightPix Labs FlashQ M20 compact flash",
+              "price": "$14",
+              "image": "images/eq-098afa01e24034.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Continuous lighting (tungsten)",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Mole-Richardson Molette 1K bare",
+              "price": "$20",
+              "image": "images/eq-5b0cb6f88c7fda.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Lowell Omni-light 1K open-face tungsten fixture",
+              "price": "$15",
+              "image": "images/eq-abc01952ffce26.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 2,
+              "item": "ARRI 650 Plus tungsten Fresnel",
+              "price": "$30",
+              "image": "images/eq-bd74baee9a612e.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 2,
+              "item": "ARRI 300 Plus / 350W tungsten Fresnel",
+              "price": "$30",
+              "image": "images/eq-6438fb97e37ed9.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "ARRI 150 tungsten Fresnel",
+              "price": "$15",
+              "image": "images/eq-264e78d7fdd850.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "IV. LIGHT MODIFIERS",
+      "subsections": [
+        {
+          "title": "Softboxes & diffusion",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Elinchrom Rotalux / standard 3 x 3' softbox",
+              "price": "$18",
+              "image": "images/eq-ed5ec563c85510.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 2,
+              "item": "Elinchrom 6' x 6' large softbox / bank",
+              "price": "$35",
+              "image": "images/eq-f0b09e4fe6930f.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Photoflex 48\" x 66\" large softbox/bank",
+              "price": "$30",
+              "image": "images/eq-1a12fd8f951d1a.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Photoflex large 7' Octabank",
+              "price": "$30",
+              "image": "images/eq-eaf73795489288.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 4,
+              "item": "2 x 3' softboxes (assorted brands)",
+              "price": "$14",
+              "image": "images/eq-8df8d2f243b362.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 3,
+              "item": "Chimera soft banks - 1 x 1x4', 2 x 2x4' strip / frame kits",
+              "price": "$25",
+              "image": "images/eq-7a1c6d8667879d.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 6,
+              "item": "Speed rings (Elinchrom / Bowens / assorted)",
+              "price": "$9",
+              "image": "images/eq-d596a097f00147.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": null,
+          "items": [
+            {
+              "quantity": 6,
+              "item": "Umbrellas (small / medium / large, two each) with diffusion socks",
+              "price": "$12",
+              "image": "images/eq-30d123930d5d75.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Hard reflectors & specialty",
+          "items": [
+            {
+              "quantity": 10,
+              "item": "Elinchrom reflector set (standard, wide & Magnum-style) with grids, assorted sizes",
+              "price": "$12",
+              "image": "images/eq-a2cf37dba08f7f.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Elinchrom beauty dish with fabric / metal grids",
+              "price": "$25",
+              "image": "images/eq-26cf1e8ecefaf3.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Elinchrom Super Zoom Spot optical snoot",
+              "price": "$45",
+              "image": "images/eq-c9d5378ebef9de.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Mini Spot Lite tabletop focusing spot",
+              "price": "$18",
+              "image": "images/eq-6b5ac888d86a22.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Elinchrom bayonet snoot",
+              "price": "$9",
+              "image": "images/eq-e075321231d707.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Bowens-mount snoot",
+              "price": "$9",
+              "image": "images/eq-b6b61652f53d9e.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "V. CAMERA & OPTICS",
+      "subsections": [
+        {
+          "title": "Camera bodies",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Hasselblad 500C/M medium-format film body",
+              "price": "$135",
+              "image": "images/eq-8f90550d166171.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Fujifilm X-T5 digital mirrorless body",
+              "price": "$110",
+              "image": "images/eq-ebe1dbaaff168e.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Fujifilm X-T4 digital mirrorless body",
+              "price": "$80",
+              "image": "images/eq-fb018e369ee2c7.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Canon EOS 5D Mark II digital SLR body",
+              "price": "$45",
+              "image": "images/eq-f5ed6eef8cc472.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Canon EOS 30D digital SLR body",
+              "price": "$18",
+              "image": "images/eq-92f28237da392c.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Canon EOS Rebel T6 digital SLR body",
+              "price": "$18",
+              "image": "images/eq-d07e070b631e0d.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Nikon F2 35mm film body",
+              "price": "$25",
+              "image": "images/eq-86d57f3e0a90b6.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Polaroid I-2 instant camera",
+              "price": "$45",
+              "image": "images/eq-094e52afe6affa.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Lenses - Hasselblad V-mount",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Carl Zeiss Distagon T* 50mm f/4 CF",
+              "price": "$40",
+              "image": "images/eq-d39cab1e1cec65.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Carl Zeiss Planar T* 80mm f/2.8 CF",
+              "price": "$35",
+              "image": "images/eq-48c91040c39efd.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Carl Zeiss Sonnar T* 150mm f/4 CF",
+              "price": "$40",
+              "image": "images/eq-77b8b041a86a27.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Lenses - Fujifilm X-mount",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Fujinon XF 80mm f/2.8 R LM OIS WR Macro",
+              "price": "$35",
+              "image": "images/eq-5ab936057fa5c6.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Fujinon XF 16-55mm f/2.8-4 R LM OIS",
+              "price": "$35",
+              "image": "images/eq-c7e718f7de423b.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Fujinon XF 18-135mm f/3.5-5.6 R LM OIS WR",
+              "price": "$35",
+              "image": "images/eq-d937fb5bdad1fa.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Fujinon XC 18-55mm f/3.5-5.6 OIS",
+              "price": "$20",
+              "image": "images/eq-bb32c92f20cdab.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 2,
+              "item": "Fujinon XF 23mm f/2 R WR",
+              "price": "$20",
+              "image": "images/eq-ee75595f784b16.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Fujinon XF 35mm f/2 R WR",
+              "price": "$20",
+              "image": "images/eq-f7b882dd798b8a.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Lenses - Nikon F-mount",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Nikon Reflex-Nikkor 500mm f/8",
+              "price": "$25",
+              "image": "images/eq-6eca85969b1604.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Nikon Nikkor-S-C 35mm f/2.8",
+              "price": "$18",
+              "image": "images/eq-ada4d8f8b0512c.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Nikon Nikkor-H-C 50mm f/2",
+              "price": "$18",
+              "image": "images/eq-a22ef7ca1b94b9.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Aetna Tele Rokunar 135mm f/2.5 telephoto lens",
+              "price": "$14",
+              "image": "images/eq-31669aa98db423.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Lenses - Canon EF / EF-S",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Canon EF 24-105mm f/4L IS USM",
+              "price": "$40",
+              "image": "images/eq-3b76fe107dc1f3.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Canon EF 17-40mm f/4L USM",
+              "price": "$25",
+              "image": "images/eq-f8b609c78b1b59.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Canon EF 75-300mm f/4-5.6 III USM",
+              "price": "$14",
+              "image": "images/eq-0a175f19e60cef.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Canon EF 40mm f/2.8 STM",
+              "price": "$9",
+              "image": "images/eq-8bc9446d83aba5.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Canon EF-S 17-85mm f/4-5.6 IS USM",
+              "price": "$12",
+              "image": "images/eq-85c94d91cdc4c2.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Canon EF-S 18-55mm f/3.5-5.6 IS II",
+              "price": "$12",
+              "image": "images/eq-01e774df7c53d6.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Mount adapters",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Hasselblad V to Fujifilm X adapter",
+              "price": "$9",
+              "image": "images/eq-70a9d59f988598.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Nikon F to Fujifilm X adapter",
+              "price": "$9",
+              "image": "images/eq-ed50f67d05d782.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Canon EOS (EF/EF-S) to Fujifilm X adapter",
+              "price": "$9",
+              "image": "images/eq-7a6c5d2f2eea4d.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Minolta MD to Fujifilm X adapter",
+              "price": "$9",
+              "image": "images/eq-90989fa9ca0b91.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "VI. DIGITAL, METERING & TOOLS",
+      "subsections": [
+        {
+          "title": "Exposure metering & wireless",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Sekonic L-508 Zoom Master light meter",
+              "price": "$25",
+              "image": "images/eq-4bd3b4ad395145.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Sekonic L-358 Flash Master light meter",
+              "price": "$18",
+              "image": "images/eq-17c571c1fb50d9.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Godox X wireless trigger system (Canon, Fujifilm, Sony)",
+              "price": "$10",
+              "image": "images/eq-df3eb3754e8889.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "PocketWizard Plus transceiver set",
+              "price": "$18",
+              "image": "images/eq-2078f3dde77cba.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Tech & calibration",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "X-Rite ColorMunki Photo spectrophotometer / calibration kit",
+              "price": "$25",
+              "image": "images/eq-a462a81306ff64.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Datacolor Spyder display calibration tool",
+              "price": "$14",
+              "image": "images/eq-c2ac3d89061d9a.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "White balance reference card (WB-CII)",
+              "price": "$4",
+              "image": "images/eq-9bf611324fa9b1.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        },
+        {
+          "title": "Camera support (tripods & heads)",
+          "items": [
+            {
+              "quantity": 1,
+              "item": "Manfrotto 679B three-section monopod",
+              "price": "$12",
+              "image": "images/eq-87683baec10827.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Manfrotto 486RC2 ball head with RC2 quick release",
+              "price": "$12",
+              "image": "images/eq-1d76097c2a8ec0.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Bogen / Manfrotto 3009 compact ball head",
+              "price": "$12",
+              "image": "images/eq-23eea4c5003c8d.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            },
+            {
+              "quantity": 1,
+              "item": "Triopo NB-2S ball head with quick-release plate",
+              "price": "$12",
+              "image": "images/eq-36aebfc9e614be.jpg",
+              "bh_page_url": "",
+              "bh_preview_url": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

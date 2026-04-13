@@ -1,0 +1,14 @@
+# Free static hosting: nginx Alpine (no build, no fees).
+# On the NAS: copy this whole folder, SSH or Container UI → open a terminal here, then:
+#   docker compose up -d
+# Site: http://<nas-ip>:8080/   (change port below or set EQUIPMENT_SITE_PORT)
+#
+services:
+  equipment-site:
+    image: nginx:alpine
+    container_name: equipment-site
+    restart: unless-stopped
+    ports:
+      - "${EQUIPMENT_SITE_PORT:-8080}:80"
+    volumes:
+      - .:/usr/share/nginx/html:ro

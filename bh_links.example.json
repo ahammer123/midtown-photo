@@ -1,0 +1,5 @@
+{
+  "_readme": "Copy entries into bh_links.json. Key = exact item string from the PDF. Value = B&H product page URL string, or {\"page\": \"https://...\"}",
+
+  "Matthews C-Stands (standard turtle base)": "https://www.bhphotovideo.com/c/product/EXAMPLE_REPLACE_WITH_REAL_SKU"
+}

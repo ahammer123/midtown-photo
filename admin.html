@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Edit equipment list</title>
+  <link rel="stylesheet" href="admin.css" />
+</head>
+<body>
+  <header class="admin-top">
+    <div class="admin-top-inner">
+      <h1>Edit equipment list</h1>
+      <div class="admin-actions">
+        <input type="file" id="file-input" class="file-hidden" accept=".json,application/json" aria-label="Open JSON file" />
+        <label for="file-input" class="btn btn-ghost" title="Pick data.json from disk (works without a web server)">Open file…</label>
+        <button type="button" class="btn btn-ghost" id="btn-load-server" title="Reload from the same site folder">Reload</button>
+        <button type="button" class="btn" id="btn-images" title="Set each image path from the item name (same rule as the Python sync)">Fix image paths</button>
+        <button type="button" class="btn" id="btn-new">New blank</button>
+        <button type="button" class="btn btn-primary" id="btn-download">Save changes</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="admin-main" id="admin-main">
+    <section class="help-panel" aria-labelledby="help-heading">
+      <h2 id="help-heading">Edit text the easy way</h2>
+      <ol class="help-steps">
+        <li>
+          <strong>Load.</strong> If you opened this from your site (<code>…/admin.html</code>), your list loads automatically. Otherwise click
+          <strong>Open file…</strong> and choose <code>data.json</code> from the equipment folder.
+        </li>
+        <li>
+          <strong>Edit.</strong> Change the page header (title, notice, captions), then sections, subsections, and each row (qty, item, price).
+        </li>
+        <li>
+          <strong>Save.</strong> Click <strong>Save changes</strong> — your browser downloads <code>data.json</code>. Replace the old file next to
+          <code>index.html</code> (drag into the folder on your Mac or NAS), then refresh the list page.
+        </li>
+      </ol>
+    </section>
+    <p id="status" class="status-bar" role="status">Loading…</p>
+    <div id="editor-root"></div>
+  </main>
+
+  <footer class="admin-footer">
+    <a href="index.html">← Back to list</a>
+  </footer>
+
+  <script type="module" src="admin.js"></script>
+</body>
+</html>
