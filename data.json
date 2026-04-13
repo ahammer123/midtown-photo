@@ -1,11 +1,11 @@
 {
   "meta": {
     "brand_line": "Midtown Photo",
-    "source": "PHOTO_KIT_EQ_LIST.pdf (text only)",
+    "source": "",
     "notice": "Insurance certificate and ID may be required. Replacement value charged for loss or damage.",
     "title": "Equipment list",
-    "rate_caption": "QTY  ITEM  DAY RATE",
-    "image_attribution": "Hover images are your photos from ~/Downloads/EQ list photos (run sync_eq_photos.py)."
+    "rate_caption": "",
+    "image_attribution": ""
   },
   "groups": [
     {
@@ -216,7 +216,7 @@
       "section": "II. ELECTRIC & POWER",
       "subsections": [
         {
-          "title": null,
+          "title": "null",
           "items": [
             {
               "quantity": 12,
@@ -464,7 +464,7 @@
           ]
         },
         {
-          "title": null,
+          "title": "null",
           "items": [
             {
               "quantity": 6,
