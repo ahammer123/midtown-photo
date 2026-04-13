@@ -1,12 +1,10 @@
-# Permanent public site (free): GitHub Pages via Actions.
+# Live URL: https://ahammer123.github.io/midtown-photo/
 #
-# REQUIRED one-time: Repo → Settings → Pages → Build and deployment →
-#   Source: "GitHub Actions" (not "Deploy from a branch").
+# If deploy fails with "Creating Pages deployment failed" / Not Found:
+#   Repo → Settings → Pages → Build and deployment → Source → GitHub Actions → Save
+#   Then re-run this workflow (Actions → failed run → Re-run jobs).
 #
-# Project site URL (note the repo name path):
-#   https://ahammer123.github.io/midtown-photo/
-#
-name: Deploy to GitHub Pages
+name: Deploy static site to Pages
 
 on:
   push:
@@ -23,20 +21,22 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
   deploy:
-    needs: build
-    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
     steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
